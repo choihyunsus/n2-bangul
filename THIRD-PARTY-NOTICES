@@ -1,0 +1,39 @@
+N2 Bangul adapts the scheduled text-task lifecycle of N2 Daebung.
+The project source is distributed under the MIT license in LICENSE.
+
+Runtime dependencies retain their upstream license terms.
+
+n2-gumiho 1.0.1
+https://github.com/choihyunsus/n2-gumiho
+MIT. Its dependency graph includes N2R, Personas and Clotho.
+
+n2-mimir 3.0.3
+https://github.com/choihyunsus/n2-mimir
+The published non-commercial/commercial terms are reproduced in LICENSE-N2-MIMIR.
+
+n2-clotho 4.0.1 (transitive)
+https://github.com/choihyunsus/n2-clotho
+The published non-commercial/commercial terms are reproduced in LICENSE-N2-CLOTHO.
+The referenced Apache text is reproduced in LICENSE-APACHE.
+
+croner 11.0.0
+https://github.com/hexagon/croner
+MIT
+
+@js-temporal/polyfill 0.5.1
+https://github.com/js-temporal/temporal-polyfill
+ISC
+
+@modelcontextprotocol/sdk
+https://github.com/modelcontextprotocol/typescript-sdk
+MIT
+
+better-sqlite3
+https://github.com/WiseLibs/better-sqlite3
+MIT
+
+zod
+https://github.com/colinhacks/zod
+MIT
+
+Exact dependency resolutions are recorded in package-lock.json in the source repository.

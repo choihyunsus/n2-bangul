@@ -1,0 +1,9 @@
+{
+  "name": "Daily planning prompt",
+  "schedule_type": "cron",
+  "schedule_value": "0 9 * * *",
+  "time_zone": "Asia/Seoul",
+  "user_message": "Write one short question that helps someone plan their day.",
+  "max_output_tokens": 128,
+  "delivery": { "broadcast": true, "log": true }
+}
