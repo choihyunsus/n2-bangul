@@ -6,7 +6,20 @@
 
 [English](README.md)
 
+<p align="center">
+  <img src="https://github.com/choihyunsus/n2-bangul/raw/refs/heads/main/docs/images/comic.png" alt="시간과 요청을 설정하고 → 앱이 실행 중일 때 예약을 실행해 → 답변을 생성하고 → 설정한 대상으로 전달한 결과를 기록합니다." width="640">
+</p>
+
+시간과 요청을 설정하고 → 앱이 실행 중일 때 예약을 실행해 → 답변을 생성하고 → 설정한 대상으로 전달한 결과를 기록합니다.
+
+기능을 이야기로 표현한 만화입니다. 실제 앱 화면은 아닙니다.
+
+<details>
+<summary>동작 흐름 펼쳐 보기</summary>
+
 ![시간과 요청 설정 → 예약 시각에 생성 → 결과 저장과 전달](https://github.com/choihyunsus/n2-bangul/raw/refs/heads/main/docs/images/overview.ko.svg)
+
+</details>
 
 ## 이런 때 사용하세요
 

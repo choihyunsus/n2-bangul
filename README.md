@@ -6,7 +6,20 @@
 
 [한국어](README.ko.md)
 
+<p align="center">
+  <img src="https://github.com/choihyunsus/n2-bangul/raw/refs/heads/main/docs/images/comic.png" alt="Ask an AI for a text response on a schedule, and record the reply and its delivery." width="640">
+</p>
+
+Ask an AI for a text response on a schedule, and record the reply and its delivery.
+
+A story illustrating the feature, rather than a screenshot of the app.
+
+<details>
+<summary>View the workflow</summary>
+
 ![Set time and prompt → Generate on schedule → Save and deliver](https://github.com/choihyunsus/n2-bangul/raw/refs/heads/main/docs/images/overview.svg)
+
+</details>
 
 ## When to use it
 
